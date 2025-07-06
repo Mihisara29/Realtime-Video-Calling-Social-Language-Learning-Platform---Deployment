@@ -1,0 +1,21 @@
+{
+  "name": "sreamify-deployment",
+  "version": "1.0.0",
+  "description": "\"# Realtime-Video-Calling-Social-Language-Learning-Platform---Deployment\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihisara29/Realtime-Video-Calling-Social-Language-Learning-Platform---Deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihisara29/Realtime-Video-Calling-Social-Language-Learning-Platform---Deployment/issues"
+  },
+  "homepage": "https://github.com/Mihisara29/Realtime-Video-Calling-Social-Language-Learning-Platform---Deployment#readme"
+}
